@@ -2,6 +2,8 @@
 
 * ¡Bienvenido al Cronómetro Interactivo! Este proyecto, construido con HTML, CSS y JavaScript, te ofrece una experiencia de cronometraje sencilla y atractiva. Ya sea que estés llevando un registro del tiempo de tus entrenamientos o simplemente disfrutando del paso del tiempo, este cronómetro tiene todo lo que necesitas.
 
+* <a href="https://luiso-o.github.io/Cronometro/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
+
 ### Características Principales: 🕒🎨
 
 1. Diseño Atractivo: El cronómetro se presenta en un diseño elegante y agradable a la vista, con una interfaz minimalista que destaca la esencia del tiempo.
