@@ -35,3 +35,5 @@
 * ¡Disfruta cronometrando! 🌟🕰️
 
 * <a href = "https://www.youtube.com/watch?v=koiPxFFiqJ4&t=14216s">⭐️ Proyectos ⭐️ Cronómetro</a>
+![Capture1](https://github.com/Luiso-o/Cronometro/assets/128043647/deb4aa26-7713-49be-8675-6e819dc3b26d)
+
